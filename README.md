@@ -69,6 +69,6 @@
 24、wx.previewImage({  
     	urls: [src], //需要预览的http链接列表  
     	current: src //当前显示图片的http链接  
-        })  
+      })  
     
 25、小程序不需要写保存图片的方法，默认长按可以保存图片
