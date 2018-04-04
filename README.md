@@ -66,6 +66,6 @@
 
 23、编写复用的模板时，从最小的模板开始编写，由小到大，使用时，wxml和wxss必须引入到当前的页面  
 
-24、wx.previewImage({urls: [src], //需要预览的http链接列表 current: src //当前显示图片的http链接})全屏预览图片
-    
+24、wx.previewImage({urls: [src], //需要预览的http链接列表 current: src //当前显示图片的http链接})全屏预览图片  
+
 25、小程序不需要写保存图片的方法，默认长按可以保存图片
